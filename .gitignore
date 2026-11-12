@@ -1,0 +1,7 @@
+/build/
+/.vs/
+*.user
+*.suo
+*.log
+experiment_results2/
+experiments/results/
